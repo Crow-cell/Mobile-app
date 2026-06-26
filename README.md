@@ -1,1 +1,1 @@
-# Primul proiect al echipei clasei XI A de la CNET( Condescu, Răduț, Dragu, Văcaru)
+# Proiect mobil : Radut Alexandru, Dragu Mihai, Condescu Narcis, Vacaru Valentin
